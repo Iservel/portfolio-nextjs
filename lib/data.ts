@@ -3,10 +3,10 @@ import { CgWorkAlt } from "react-icons/cg";
 import { BsBarChart } from "react-icons/bs";
 import { FaChartLine } from "react-icons/fa";
 import { FiTool } from "react-icons/fi";
-import managelandingpage from "@/public/managelandingpage.jpg";
-import promptopia from "@/public/promptopia.png";
-import dashboard from "@/public/dashboard.png";
-import resume from "@/public/resume.png";
+import managelandingpage from "../public/managelandingpage.jpg";
+import promptopia from "../public/promptopia.png";
+import dashboard from "../public/dashboard.png";
+import resume from "../public/resume.png";
 
 export const links = [
   {
