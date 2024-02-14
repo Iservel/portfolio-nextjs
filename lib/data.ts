@@ -65,7 +65,7 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "Minimalist Resume",
-    link: "https://65cd3b2e7769f22eee0d12ce--lucky-gaufre-200239.netlify.app/",
+    link: "https://lucky-gaufre-200239.netlify.app/",
     description:
       "A beautiful, minimalist resume made with Astro. Designed to be printable and fully customized using only one JSON file.",
     tags: ["Astro", "Typescript", "CSS", "HTML"],
