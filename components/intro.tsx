@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="../public/me.webp"
+              src="../public/me.jpg"
               alt="Israel portrait"
               width="200"
               height="200"
